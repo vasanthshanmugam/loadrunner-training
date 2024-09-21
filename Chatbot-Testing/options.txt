@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Vasanth\Training Materials\LoadRunner-Training\Chatbot-Testing
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\vasanth\training materials\loadrunner-training\chatbot-testing\\logfile.log
+c:\vasanth\training materials\loadrunner-training\chatbot-testing\\combined_Chatbot-Testing.c
+c:\vasanth\training materials\loadrunner-training\chatbot-testing\\pre_cci.c

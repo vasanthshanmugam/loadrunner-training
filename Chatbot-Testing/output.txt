@@ -1,0 +1,67 @@
+Virtual User Script started at : 2024-09-15 07:52:27
+TruClient Replay (build 0287) for LoadRunner Professional 2022.0.0, build 0433. OS: Windows 11, Browser: TruClient Browser 88.0.2.0, initialized on 2024/09/15 at 07:52:25 (1726383145.307s)
+Running Vuser...
+Starting iteration 1.
+Notify: Transaction "Transaction 1" started.
+t=00003607ms: Step 3: Navigate to "https://advantageonlinebanking.com/" started    [MsgId: MMSG-205180]
+t=00005560ms: Step 3: Navigate to https://advantageonlinebanking.com/ successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 1" ended with a "Pass" status (Duration: 1.9590 Wasted Time: 0.6120).
+t=00005576ms: Step 4: Wait 10 seconds started    [MsgId: MMSG-205180]
+t=00015792ms: Step 4: Wait 10 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 2" started.
+t=00016304ms: Step 6: Click on Live Support  started    [MsgId: MMSG-205180]
+t=00018684ms: Step 6: Click on Live Support  successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 2" ended with a "Pass" status (Duration: 2.3860 Wasted Time: 2.1030).
+t=00018690ms: Step 7: Wait 10 seconds started    [MsgId: MMSG-205180]
+t=00028917ms: Step 7: Wait 10 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 3" started.
+t=00029425ms: Step 8: Click on textbox (1) textbox started    [MsgId: MMSG-205180]
+t=00029671ms: Step 8: Click on textbox (1) textbox successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 3" ended with a "Pass" status (Duration: 0.2510 Wasted Time: 0.2140).
+t=00029676ms: Step 9: Wait 10 seconds started    [MsgId: MMSG-205180]
+t=00039894ms: Step 9: Wait 10 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 4" started.
+t=00040406ms: Step 10: Click on element (3)  started    [MsgId: MMSG-205180]
+t=00040639ms: Step 10: Click on element (3)  successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00041150ms: Step 11: Type Yes in textbox (1) textbox started    [MsgId: MMSG-205180]
+t=00044788ms: Step 11: Type Yes in textbox (1) textbox successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 4" ended with a "Pass" status (Duration: 4.3870 Wasted Time: 2.9310).
+t=00044795ms: Step 12: Wait 10 seconds started    [MsgId: MMSG-205180]
+t=00055049ms: Step 12: Wait 10 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 5" started.
+t=00055562ms: Step 13: Click on element (3)  started    [MsgId: MMSG-205180]
+t=00055809ms: Step 13: Click on element (3)  successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00056316ms: Step 14: Type Banking in textbox (1) textbox started    [MsgId: MMSG-205180]
+t=00060158ms: Step 14: Type Banking in textbox (1) textbox successfully completed with End Event "Step network completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 5" ended with a "Pass" status (Duration: 4.6020 Wasted Time: 2.9190).
+t=00060167ms: Step 15: Wait 10 seconds started    [MsgId: MMSG-205180]
+t=00070425ms: Step 15: Wait 10 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 6" started.
+t=00070934ms: Step 16: Click on element (3)  started    [MsgId: MMSG-205180]
+t=00071168ms: Step 16: Click on element (3)  successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00071681ms: Step 17: Type test@gmail.com in Your email emailbox started    [MsgId: MMSG-205180]
+t=00081675ms: Step 17: Type test@gmail.com in Your email emailbox successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00082188ms: Step 18: Click on Submit  started    [MsgId: MMSG-205180]
+t=00082455ms: Step 18: Click on Submit  successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 6" ended with a "Pass" status (Duration: 11.5250 Wasted Time: 1.6380).
+t=00082462ms: Step 19: Wait 10 seconds started    [MsgId: MMSG-205180]
+t=00092676ms: Step 19: Wait 10 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 7" started.
+t=00093191ms: Step 20: Type 7400123456 in 7400 123456 textbox started    [MsgId: MMSG-205180]
+t=00097474ms: Step 20: Type 7400123456 in 7400 123456 textbox successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00097984ms: Step 21: Click on Submit  started    [MsgId: MMSG-205180]
+t=00098294ms: Step 21: Click on Submit  successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 7" ended with a "Pass" status (Duration: 5.1080 Wasted Time: 0.9340).
+t=00098302ms: Step 22: Wait 10 seconds started    [MsgId: MMSG-205180]
+t=00108525ms: Step 22: Wait 10 seconds successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 8" started.
+t=00109037ms: Step 23: Click on textbox (1) textbox started    [MsgId: MMSG-205180]
+t=00109267ms: Step 23: Click on textbox (1) textbox successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00109780ms: Step 24: Type thanks in textbox (1) textbox started    [MsgId: MMSG-205180]
+t=00111830ms: Step 24: Type thanks in textbox (1) textbox successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+t=00112343ms: Step 25: Click on element (3)  started    [MsgId: MMSG-205180]
+t=00112562ms: Step 25: Click on element (3)  successfully completed with End Event "Action completed"    [MsgId: MMSG-205180]
+Notify: Transaction "Transaction 8" ended with a "Pass" status (Duration: 3.5270 Wasted Time: 1.6370).
+Ending iteration 1.
+Ending Vuser...
+Vuser Terminated.
